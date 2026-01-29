@@ -170,7 +170,7 @@ export default function ExamplesPage() {
         <section>
           <div className="flex items-center gap-2 mb-6 text-primary border-b border-primary/20 pb-2">
             <BookOpen size={24} />
-            <h2 className="text-2xl font-bold">ตะลุยโจทย์และเฉลยละเอียด</h2>
+            <h2 className="text-2xl font-bold">ตัวอย่างโจทย์ฟังก์ชันขั้นบันได</h2>
           </div>
           <div className="grid gap-2">
             {activeTab === "step" ? (
