@@ -11,6 +11,8 @@ const navItems = [
   { href: "/", label: "หน้าหลัก" },
   { href: "/examples", label: "ตัวอย่างโจทย์" },
   { href: "/exercises", label: "แบบฝึกหัด" },
+  { href: "/graph", label: "เล่นกราฟ", path: "/graph" }, 
+  { href: "/about", label: "ผู้จัดทำ", path: "/about" },
 ]
 
 export function Navbar() {

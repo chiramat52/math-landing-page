@@ -16,13 +16,13 @@ const teamMembers = [
     name: "จิรเมศร์ บวรจริยะวัชร์", 
     role: "หัวหน้าโปรเจกต์ / Developer", 
     no: "เลขที่ 16",
-    id: "6xxxxxxxx" 
+    id: "53706" 
   },
   { 
     name: "อัครวินท์ กลิ่นนิรัญ", 
     role: "Content / Researcher", 
     no: "เลขที่ 36",
-    id: "6xxxxxxxx" 
+    id: "53726" 
   },
 ]
 
